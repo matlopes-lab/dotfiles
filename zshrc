@@ -60,3 +60,13 @@ export PATH="./bin:./node_modules/.bin:${PATH}:/usr/local/sbin"
 export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
 export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
+PROMPT='%n~$'
+
+PROMPT='%n:%W:~$'
+
+PROMPT=' 💻 %U%F{51}%n%f%u %T ⌚️ at %1~ 📥
+/+/ %# '
+
+
+
+export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
