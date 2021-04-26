@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"10% Too Dull for My Tastes Color Scheme",
 		"A File Icon",
 		"AdvancedNewFile",
 		"All Autocomplete",
@@ -13,12 +14,14 @@
 		"Babel",
 		"BracketHighlighter",
 		"Color Highlight",
+		"Dockerfile Syntax Highlighting",
 		"ElixirSublime",
 		"Emmet",
 		"ERB Snippets",
 		"Git",
 		"Latest Migration",
 		"LSP",
+		"LSP-dockerfile",
 		"MagicPython",
 		"Package Control",
 		"SCSS",
