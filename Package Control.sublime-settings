@@ -29,6 +29,8 @@
 		"SublimeLinter-contrib-elixirc",
 		"SublimeLinter-eslint",
 		"SublimeLinter-flake8",
-		"SublimeLinter-rubocop"
+		"SublimeLinter-rubocop",
+		"Vue Syntax Highlight",
+		"Vuejs Complete Package"
 	]
 }
